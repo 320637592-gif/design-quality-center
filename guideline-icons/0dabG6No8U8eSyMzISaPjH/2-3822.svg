@@ -1,0 +1,18 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#FFEAEA"/>
+<rect x="0.025" y="0.025" width="19.95" height="19.95" stroke="black" stroke-opacity="0.2" stroke-width="0.05"/>
+<rect x="1" y="0.999756" width="18" height="18" fill="#D5FFF7"/>
+<path d="M0 10H20" stroke="black" stroke-opacity="0.2" stroke-width="0.05"/>
+<path d="M10 20L10 -1.56462e-07" stroke="black" stroke-opacity="0.2" stroke-width="0.05"/>
+<rect x="3.05" y="1.04976" width="13.9" height="17.9" stroke="#48D7F1" stroke-width="0.1"/>
+<rect x="18.95" y="3.05049" width="13.9" height="17.9" transform="rotate(90 18.95 3.05049)" stroke="#48D7F1" stroke-width="0.1"/>
+<rect x="2.05" y="2.04951" width="15.9" height="15.9" stroke="#289FEA" stroke-width="0.1"/>
+<circle cx="10" cy="9.99976" r="8.95" stroke="#1869F5" stroke-width="0.1"/>
+<rect width="1" height="1" fill="#FFD7D7" style="mix-blend-mode:darken"/>
+<rect y="19.0002" width="1" height="1" fill="#FFD7D7" style="mix-blend-mode:darken"/>
+<rect x="19" width="1" height="1" fill="#FFD7D7" style="mix-blend-mode:darken"/>
+<rect x="19" y="19.0002" width="1" height="1" fill="#FFD7D7" style="mix-blend-mode:darken"/>
+<path d="M2 5H16.5C17.3284 5 18 5.67157 18 6.5V16.5C18 17.3284 17.3284 18 16.5 18H3.5C2.67157 18 2 17.3284 2 16.5V5Z" stroke="black" stroke-width="1.5"/>
+<path d="M2 5H14L10.4361 2.44854C10.0286 2.15685 9.54008 2 9.03899 2H3.5C2.67157 2 2 2.67157 2 3.5V5Z" stroke="black" stroke-width="1.5"/>
+</svg>
+

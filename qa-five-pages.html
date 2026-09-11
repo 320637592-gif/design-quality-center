@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>设计质量中心 · 五页视觉对照</title>
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; padding: 28px; color: #1b1b1b; background: #eef1f5; font: 14px/22px "PingFang SC", "Microsoft YaHei", sans-serif; }
+      header { margin-bottom: 20px; }
+      h1 { margin: 0; font-size: 24px; line-height: 34px; }
+      header p { margin: 4px 0 0; color: #6a6a6a; }
+      main { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+      section { overflow: hidden; border-radius: 12px; background: #fff; }
+      section > div { display: flex; min-height: 54px; align-items: center; justify-content: space-between; padding: 10px 14px; border-bottom: 1px solid #f0f1f2; }
+      h2 { margin: 0; font-size: 15px; font-weight: 500; }
+      span { color: #9a9a9a; font-size: 12px; }
+      img { display: block; width: 100%; height: auto; background: #f5f7fa; }
+      .reference { border: 2px solid #f63218; }
+      .reference > div { background: #fff5f4; }
+      .reference-icons img { aspect-ratio: 16 / 10; object-fit: contain; padding: 14px; }
+      .wide { grid-column: 1 / -1; }
+      .wide img { max-height: 720px; object-fit: contain; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>设计质量中心 · 五页视觉对照</h1>
+      <p>同屏检查 JoyDesign 页面语言、B 端原版图标与五个业务页面的实际实现。</p>
+    </header>
+    <main>
+      <section class="reference"><div><h2>视觉依据 · JoyDesign Table 页模板</h2><span>Figma node 4:129357</span></div><img src="/design-quality-center/qa/reference-page.png" alt="JoyDesign Table 页模板" /></section>
+      <section class="reference reference-icons"><div><h2>视觉依据 · B 端图标规范</h2><span>Figma node 0:1</span></div><img src="/design-quality-center/qa/reference-icons.png" alt="B 端图标规范" /></section>
+      <section><div><h2>01 · 设计走查工作台</h2><span>1440 × 900</span></div><img src="/design-quality-center/qa/page-workbench-1440.png" alt="设计走查工作台实现" /></section>
+      <section><div><h2>02 · 走查任务</h2><span>1440 × 900</span></div><img src="/design-quality-center/qa/page-tasks-1440.png" alt="走查任务页面实现" /></section>
+      <section><div><h2>03 · 设计规范</h2><span>1440 × 900</span></div><img src="/design-quality-center/qa/page-guidelines-1440.png" alt="设计规范页面实现" /></section>
+      <section><div><h2>04 · 规则管理</h2><span>1440 × 900</span></div><img src="/design-quality-center/qa/page-rules-1440.png" alt="规则管理页面实现" /></section>
+      <section class="wide"><div><h2>05 · 系统设置</h2><span>1440 × 900</span></div><img src="/design-quality-center/qa/page-settings-1440.png" alt="系统设置页面实现" /></section>
+    </main>
+  </body>
+</html>

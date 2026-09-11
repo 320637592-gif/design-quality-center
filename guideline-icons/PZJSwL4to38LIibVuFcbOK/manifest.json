@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "fileKey": "PZJSwL4to38LIibVuFcbOK",
+  "pageId": "73:1",
+  "exportedAt": "2026-09-08T16:04:49.115Z",
+  "provenance": "Figma 原始节点 SVG 导出记录；独立于属性解析版本，不用于走查证据。仅补齐当前目录已读取的 100 项，不代表全部 788 项已解析。",
+  "total": 100,
+  "entries": {
+    "452:1932": {
+      "nodeId": "452:1932",
+      "name": "up-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "bb633fb0e63eb33d56cf5ea57e51c8a3981f71b9f1fdfea607911d8781e8616f"
+    },
+    "452:1933": {
+      "nodeId": "452:1933",
+      "name": "down-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "3878733acdf2dc94f95009e51348224da6ce9c21a7f22b92805dbd121d5f0ee7"
+    },
+    "452:1934": {
+      "nodeId": "452:1934",
+      "name": "left-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "ea964e6898628edcd46a73c10370f30af6fa2ec7d73f3d6c833227a5e4a18e5b"
+    },
+    "452:1935": {
+      "nodeId": "452:1935",
+      "name": "right-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "7ae0caf3721d9c1473e56b33c0cdb61070ca3187717f46b2aba335148b9f59a1"
+    },
+    "452:1936": {
+      "nodeId": "452:1936",
+      "name": "play-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "c4bdd91b61a80f8fc5a12d2831f7ed98df979d114b770a6a4373ea007404fad6"
+    },
+    "452:1943": {
+      "nodeId": "452:1943",
+      "name": "plus-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "8094c9f72bdcff5fd5b292a5f7b9a9c80e27f12e791d27f985f84faaab14ee53"
+    },
+    "452:1944": {
+      "nodeId": "452:1944",
+      "name": "pause-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "2d4e6a07c75d07b8bfec95d07dce430887e6f1a63a5299071ac2ab6527749a70"
+    },
+    "452:1945": {
+      "nodeId": "452:1945",
+      "name": "minus-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "98442263dd0c15f509def9d1f9a860bc20821efdc263b1e11c171a87b289c2d0"
+    },
+    "452:1946": {
+      "nodeId": "452:1946",
+      "name": "plus-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "434e60533ee9ad315e3cd43049b5c7551a909d0f2fb4819e0833898f8e5ef12a"
+    },
+    "452:1947": {
+      "nodeId": "452:1947",
+      "name": "minus-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "3e6c1ccf74b8c7490753ace0d5bff5a9880ce3fb7cb0a6a832f7551c28121b73"
+    },
+    "452:1937": {
+      "nodeId": "452:1937",
+      "name": "up-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "368ecc8741addf4870597fa9e9c1df5633ba7603fe3a07b6a564087b64468691"
+    },
+    "452:1938": {
+      "nodeId": "452:1938",
+      "name": "down-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "8133a6e2f8bb33a0c2e594d50f4a6000a82f7135e7e29e2448af4da193bc3ba6"
+    },
+    "452:1939": {
+      "nodeId": "452:1939",
+      "name": "left-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "21310711276d7926c1340db433023e1b4d41c4a04342498888eb75d6777484c5"
+    },
+    "452:1940": {
+      "nodeId": "452:1940",
+      "name": "right-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "14db3e028becf7c8a84201738dd5cc3063d3950487c0ffa20584132652fb7384"
+    },
+    "452:1942": {
+      "nodeId": "452:1942",
+      "name": "question-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "07ae25c6cdb9cb87faa1c259df1eaeb8332c20e3d07790439397ff109b33d032"
+    },
+    "452:1948": {
+      "nodeId": "452:1948",
+      "name": "info-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "19d4e70f51a1961421ce01aa5f685bbbfc594d27803e8af7a7492b5ebb235f1e"
+    },
+    "452:1949": {
+      "nodeId": "452:1949",
+      "name": "exclamation-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "286731023cceefda1940a0d3897c871bc9b624f496ec2d13540b845d05ff1860"
+    },
+    "452:1950": {
+      "nodeId": "452:1950",
+      "name": "close-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "4ea4af5f1c1b60c527fb21badb1ceedfe2c2def6ab75981237ea1913d66d861c"
+    },
+    "452:1951": {
+      "nodeId": "452:1951",
+      "name": "close-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "b3627330e34fce64fc9c1a11b15a8a1ca93f6b3f3f505d080c501336fb07d96a"
+    },
+    "452:1952": {
+      "nodeId": "452:1952",
+      "name": "check-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "37b7bbc3300660f71a1878e823ea868fe64ed78dfc4af53a55b98aee59e480ce"
+    },
+    "452:1953": {
+      "nodeId": "452:1953",
+      "name": "check-square",
+      "width": 36,
+      "height": 36,
+      "sha256": "8f3f0c716442ffb4abe0a874c9a5594ff00423b6f7e78213879fd13de2e8b0e1"
+    },
+    "452:1956": {
+      "nodeId": "452:1956",
+      "name": "clock-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "a06801a21b7bf3e9f9694e1dfe039d1f9b9ab457850e97edcea514fa724d0a22"
+    },
+    "452:1955": {
+      "nodeId": "452:1955",
+      "name": "warning",
+      "width": 36,
+      "height": 36,
+      "sha256": "af0135ca7d731a9c9c2058a3c34a416750e7b6a973ff370a39a3a7aba9af7512"
+    },
+    "452:1954": {
+      "nodeId": "452:1954",
+      "name": "stop",
+      "width": 36,
+      "height": 36,
+      "sha256": "2cde8240c5495fc732ca44902d5f2983ff366fb6cb170072453bccd025be87eb"
+    },
+    "452:2853": {
+      "nodeId": "452:2853",
+      "name": "edit",
+      "width": 36,
+      "height": 36,
+      "sha256": "508af62e5e3b1023b6c2289e8d0f76067a0a57467b13a478fe83174eeddbcee6"
+    },
+    "452:2941": {
+      "nodeId": "452:2941",
+      "name": "pie-chart",
+      "width": 36,
+      "height": 36,
+      "sha256": "fca8096df0b343dd7b54384e38570ae68d8fca939af629f5146928aaf4571dc6"
+    },
+    "452:2839": {
+      "nodeId": "452:2839",
+      "name": "box-plot",
+      "width": 36,
+      "height": 36,
+      "sha256": "831b88c98ccdb695f0c02f92fb3d9cb0847344678899b2e59c5bed07b4c752a2"
+    },
+    "452:2866": {
+      "nodeId": "452:2866",
+      "name": "fund",
+      "width": 36,
+      "height": 36,
+      "sha256": "304828ea83f2157965c2b64abad5f22b943a0e8bb6a0094b158673e8ba6617a7"
+    },
+    "452:2928": {
+      "nodeId": "452:2928",
+      "name": "sliders",
+      "width": 36,
+      "height": 36,
+      "sha256": "409056b0c1976f37386a77bee195bd808269d9dd14e9f10542168cba654028f5"
+    },
+    "452:2960": {
+      "nodeId": "452:2960",
+      "name": "html5",
+      "width": 36,
+      "height": 36,
+      "sha256": "64c4d843ab0be3eb710308824b15693298f26dae54c51eed1f98ec7514299be9"
+    },
+    "452:2848": {
+      "nodeId": "452:2848",
+      "name": "copy",
+      "width": 36,
+      "height": 36,
+      "sha256": "3a1a1ffa24804c497d7ae83a9b6d33c14ac0191f1ec4a51bfcee74a5767be0e1"
+    },
+    "452:2852": {
+      "nodeId": "452:2852",
+      "name": "delete",
+      "width": 36,
+      "height": 36,
+      "sha256": "15c7dd8cfa65acdd9d692943784595b695722faafedfc9364fed8bf21a49fe71"
+    },
+    "452:2929": {
+      "nodeId": "452:2929",
+      "name": "snippets",
+      "width": 36,
+      "height": 36,
+      "sha256": "152ebaaf138aae5cc4f52ccba15e051bc7ea23d35847d6b90b7ea4e0fd7b1c3f"
+    },
+    "452:2893": {
+      "nodeId": "452:2893",
+      "name": "diff",
+      "width": 36,
+      "height": 36,
+      "sha256": "40411d3dc9cb0549ba79c4c5fe5a519c0e8c8ec71980551e5f603eb6796dc94f"
+    },
+    "452:2871": {
+      "nodeId": "452:2871",
+      "name": "highlight",
+      "width": 36,
+      "height": 36,
+      "sha256": "a495ac03bdd260b704dffc8a3649182b051c863817eef809523be76416e78190"
+    },
+    "452:2838": {
+      "nodeId": "452:2838",
+      "name": "bank",
+      "width": 36,
+      "height": 36,
+      "sha256": "741bc023697eacefd0e22315eac568489b83f428eca0adf7be40a5350febbb4b"
+    },
+    "452:2957": {
+      "nodeId": "452:2957",
+      "name": "bell",
+      "width": 36,
+      "height": 36,
+      "sha256": "a2b2e89dc244b7250908265928a763b3584c2919810688e63c06d5752413cec4"
+    },
+    "452:2958": {
+      "nodeId": "452:2958",
+      "name": "book",
+      "width": 36,
+      "height": 36,
+      "sha256": "2a1e1adb172044f7e4cf3744f7a0cb44b268b8d7e4f17107a22a35dc5e6a2806"
+    },
+    "452:2959": {
+      "nodeId": "452:2959",
+      "name": "bug",
+      "width": 36,
+      "height": 36,
+      "sha256": "55a1188e6c72533447fe1baccec1d3bffe498d41581055f0a0e5cff0bab83787"
+    },
+    "452:2840": {
+      "nodeId": "452:2840",
+      "name": "build",
+      "width": 36,
+      "height": 36,
+      "sha256": "258332404434051de5abdfc8b85c873dc7ef2ba13242d5be0d6ca79108708544"
+    },
+    "452:2880": {
+      "nodeId": "452:2880",
+      "name": "account-book",
+      "width": 36,
+      "height": 36,
+      "sha256": "74dfef9dabffbf641aed37d368dcd28dbbacf4236f5cf3caac2515cbc1abdc9f"
+    },
+    "452:2835": {
+      "nodeId": "452:2835",
+      "name": "alert",
+      "width": 36,
+      "height": 36,
+      "sha256": "9ea3b2d675e45387b95e5f675b00253b19db412be16dd16f30cfbda358982ea5"
+    },
+    "452:2881": {
+      "nodeId": "452:2881",
+      "name": "api",
+      "width": 36,
+      "height": 36,
+      "sha256": "77caa1af6f9586a1ccc59781695bac0b45e7c1b154d9daeeb04a0be01589f8e0"
+    },
+    "452:2836": {
+      "nodeId": "452:2836",
+      "name": "appstore",
+      "width": 36,
+      "height": 36,
+      "sha256": "5fde678f21202865b26f8ef1519be267a510cd14f98e606926e2601e9499bb5c"
+    },
+    "452:2837": {
+      "nodeId": "452:2837",
+      "name": "audio",
+      "width": 36,
+      "height": 36,
+      "sha256": "c6e2916afbbe4a167d1d544a311d529880171303e32e744e6e62221b72f73861"
+    },
+    "452:2841": {
+      "nodeId": "452:2841",
+      "name": "bulb",
+      "width": 36,
+      "height": 36,
+      "sha256": "1c0a0701a4e1a439c3d41a6cb70a13c02e4eac7b6b55d8073a1ee5f49b6fc270"
+    },
+    "452:2882": {
+      "nodeId": "452:2882",
+      "name": "calculator",
+      "width": 36,
+      "height": 36,
+      "sha256": "216552211e820addb570626274c7ba6aa8e5481413b9b8d67f61fa3b078a9399"
+    },
+    "452:2842": {
+      "nodeId": "452:2842",
+      "name": "calendar",
+      "width": 36,
+      "height": 36,
+      "sha256": "863ef5a07784890262a0080c7db91ab8a7183d4f740205a91537ec53c472d85f"
+    },
+    "452:2843": {
+      "nodeId": "452:2843",
+      "name": "camera",
+      "width": 36,
+      "height": 36,
+      "sha256": "cf21f7e6a388fb5df2877282aa9fb5bed8d2d3aa0c813ede6165693c07cca86b"
+    },
+    "452:2883": {
+      "nodeId": "452:2883",
+      "name": "car",
+      "width": 36,
+      "height": 36,
+      "sha256": "320cced169458d33bab5a15340b334fe365455c92b3bd0e6cd8cd66114512e98"
+    },
+    "452:2844": {
+      "nodeId": "452:2844",
+      "name": "carry-out",
+      "width": 36,
+      "height": 36,
+      "sha256": "e4066989287a2997011903c9f24169e2fb0c06f1105328e3a5b546e8dfd54dcd"
+    },
+    "452:2884": {
+      "nodeId": "452:2884",
+      "name": "ci-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "0ea7382b88abeb3052467d2799af85c9441ea73f7aaa91af8d49673a5a5d5484"
+    },
+    "452:2885": {
+      "nodeId": "452:2885",
+      "name": "ci",
+      "width": 36,
+      "height": 36,
+      "sha256": "0ea7382b88abeb3052467d2799af85c9441ea73f7aaa91af8d49673a5a5d5484"
+    },
+    "452:2886": {
+      "nodeId": "452:2886",
+      "name": "cloud",
+      "width": 36,
+      "height": 36,
+      "sha256": "f499821bdd3540ba46ca0c33efefffd3181dfaefcb5f0c5b6b17132b03a587df"
+    },
+    "452:2845": {
+      "nodeId": "452:2845",
+      "name": "code",
+      "width": 36,
+      "height": 36,
+      "sha256": "0bdf6b8ac1c79d59e54aae5d2340e0f7b18c52d791e4b850845c60bca74776c3"
+    },
+    "452:2890": {
+      "nodeId": "452:2890",
+      "name": "copyright",
+      "width": 36,
+      "height": 36,
+      "sha256": "bffc40527aa2307f6d8c8bc4898546054588204e954ccf85589bd5f9c13da162"
+    },
+    "452:2849": {
+      "nodeId": "452:2849",
+      "name": "credit-card",
+      "width": 36,
+      "height": 36,
+      "sha256": "c3278650d2e93ea3d4337be79884a4774cdd690e8de71dfc6ee6dcde2d29064d"
+    },
+    "452:2891": {
+      "nodeId": "452:2891",
+      "name": "crown",
+      "width": 36,
+      "height": 36,
+      "sha256": "bad6aa28782585bff0fb480144df20af5dc381765c9ba7c18017a16bb22c8d46"
+    },
+    "452:2850": {
+      "nodeId": "452:2850",
+      "name": "customer-service",
+      "width": 36,
+      "height": 36,
+      "sha256": "dc5c3682550b2d48ebb3ad574ac72839f095ad32cde3da13827774507652786e"
+    },
+    "452:2892": {
+      "nodeId": "452:2892",
+      "name": "dashboard",
+      "width": 36,
+      "height": 36,
+      "sha256": "655d15b33e78697097792ce273c0ba9e27d2e749c5e75ceb197153b6497e01d8"
+    },
+    "452:2846": {
+      "nodeId": "452:2846",
+      "name": "compass",
+      "width": 36,
+      "height": 36,
+      "sha256": "cbcd1fe571153527c5d15e3a096ed371ec8b12061428e1287340013986f565f3"
+    },
+    "452:2887": {
+      "nodeId": "452:2887",
+      "name": "contacts",
+      "width": 36,
+      "height": 36,
+      "sha256": "484bd20d88ee10e508f3f253e88a8a5e8c189386169821cf50d55c8ff0815ab4"
+    },
+    "452:2847": {
+      "nodeId": "452:2847",
+      "name": "container",
+      "width": 36,
+      "height": 36,
+      "sha256": "e35c512911fb4adb46b9a4fc1b88060630a7617b05ee18aca3430b7e674ff3d6"
+    },
+    "452:2888": {
+      "nodeId": "452:2888",
+      "name": "control",
+      "width": 36,
+      "height": 36,
+      "sha256": "69ffccbe3f26cd73c478753545a8c445d5694cc21a47db1fbb7aa5468b3fc62f"
+    },
+    "452:2889": {
+      "nodeId": "452:2889",
+      "name": "copyright-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "bffc40527aa2307f6d8c8bc4898546054588204e954ccf85589bd5f9c13da162"
+    },
+    "452:2851": {
+      "nodeId": "452:2851",
+      "name": "database",
+      "width": 36,
+      "height": 36,
+      "sha256": "216ac7a8305b5acd44f80cbf8a603751b1adb756d6b0f2856e42f94396ac9800"
+    },
+    "452:2894": {
+      "nodeId": "452:2894",
+      "name": "dislike",
+      "width": 36,
+      "height": 36,
+      "sha256": "bde29b25cb8cdc35fcbc1e67a547c8463aa26580f42fed4b950a702ad497aa09"
+    },
+    "452:2895": {
+      "nodeId": "452:2895",
+      "name": "dollar-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "f7b57e6e8bd008203e0f15e7b1c5a9d592449500b5e1179a24ad414460ac3776"
+    },
+    "452:2896": {
+      "nodeId": "452:2896",
+      "name": "dollar",
+      "width": 36,
+      "height": 36,
+      "sha256": "2d49f22df5b430bdb4b6bcffa74e22a254627cb7026e1529e15dce3433559660"
+    },
+    "452:2897": {
+      "nodeId": "452:2897",
+      "name": "environment",
+      "width": 36,
+      "height": 36,
+      "sha256": "620fb22169a3399bba4c684073314de3a1c3ffe55e296ef243943d820a765be4"
+    },
+    "452:2898": {
+      "nodeId": "452:2898",
+      "name": "euro-circle",
+      "width": 36,
+      "height": 36,
+      "sha256": "de9d140da318c5038f32809bb880e2605d86b752d1a66bef093b0b6dce908b55"
+    },
+    "452:2899": {
+      "nodeId": "452:2899",
+      "name": "euro",
+      "width": 36,
+      "height": 36,
+      "sha256": "de9d140da318c5038f32809bb880e2605d86b752d1a66bef093b0b6dce908b55"
+    },
+    "452:2900": {
+      "nodeId": "452:2900",
+      "name": "experiment",
+      "width": 36,
+      "height": 36,
+      "sha256": "2cd6d4c94b08f5a0dda6b5710967cf1dae4b37597d4f1893a98e6b04fc94b298"
+    },
+    "452:2902": {
+      "nodeId": "452:2902",
+      "name": "eye",
+      "width": 36,
+      "height": 36,
+      "sha256": "8e17df85189b971c99b830e1b75ce1e0c134b1363920b027b106bf09c2cc32b5"
+    },
+    "452:2901": {
+      "nodeId": "452:2901",
+      "name": "eye-invisible",
+      "width": 36,
+      "height": 36,
+      "sha256": "3d54fd4fb73c461a12240eb71bab8d948c7e0092c122c4740980cfb53ebd14be"
+    },
+    "452:2854": {
+      "nodeId": "452:2854",
+      "name": "file-add",
+      "width": 36,
+      "height": 36,
+      "sha256": "a20ee9e1a768851e3ec94fe5e8df43ca3acc6e853778d78455e95241c6c64db9"
+    },
+    "452:2903": {
+      "nodeId": "452:2903",
+      "name": "file-excel",
+      "width": 36,
+      "height": 36,
+      "sha256": "71981f253970bbd6cae3cdba33c7e451e91b9ea66e82c35164319f8dbfda3e28"
+    },
+    "452:2855": {
+      "nodeId": "452:2855",
+      "name": "file-exclamation",
+      "width": 36,
+      "height": 36,
+      "sha256": "52659544efcf64ecdf584b9aff0b709d39af5d2d4b9bd8db4ec6de7f7f9754e7"
+    },
+    "452:2860": {
+      "nodeId": "452:2860",
+      "name": "file",
+      "width": 36,
+      "height": 36,
+      "sha256": "4fce3c1b3686ae6604e23ccb99d5cb27c01820e5271471a08b536c4bb6aab53f"
+    },
+    "452:2856": {
+      "nodeId": "452:2856",
+      "name": "file-image",
+      "width": 36,
+      "height": 36,
+      "sha256": "f3566ef66a7f481ac8bee34eac43f6a9fb03b28e9df55e5eae781be6db0dd17e"
+    },
+    "452:2905": {
+      "nodeId": "452:2905",
+      "name": "file-markdown",
+      "width": 36,
+      "height": 36,
+      "sha256": "a41494d3b0977a97539b944051f96d00587a75a4dfab1e3e5920a2c10971fc19"
+    },
+    "452:2904": {
+      "nodeId": "452:2904",
+      "name": "file-pdf",
+      "width": 36,
+      "height": 36,
+      "sha256": "688f8768bcd1bc914dd18750285bc863736a67dfb0f69e18fa471f9cc809d818"
+    },
+    "452:2857": {
+      "nodeId": "452:2857",
+      "name": "file-ppt",
+      "width": 36,
+      "height": 36,
+      "sha256": "05fd9de6af9bba4f546d2d60668d69b7a1c1ee4cc2b7552ec743f4b081c292d2"
+    },
+    "452:2858": {
+      "nodeId": "452:2858",
+      "name": "file-text",
+      "width": 36,
+      "height": 36,
+      "sha256": "ca9bf805450853b0498da9455bfe7c6ea1b0db09f93f103ec5c8893448de4c9b"
+    },
+    "452:2906": {
+      "nodeId": "452:2906",
+      "name": "file-unknown",
+      "width": 36,
+      "height": 36,
+      "sha256": "a8c880a580ebef9216490c3e33e0cba860ceeb4c936b3b8a4fd4610c09921ffb"
+    },
+    "452:2907": {
+      "nodeId": "452:2907",
+      "name": "file-word",
+      "width": 36,
+      "height": 36,
+      "sha256": "98bdc6e8059d30d381dc0dc2ac229f2216094368bee2ba1c9c327fab5969795d"
+    },
+    "452:2859": {
+      "nodeId": "452:2859",
+      "name": "file-zip",
+      "width": 36,
+      "height": 36,
+      "sha256": "9f3066206dcdd03a2c72efd3878c9bb885e7ff3e67b1ef2d178e835a95e19dba"
+    },
+    "452:2861": {
+      "nodeId": "452:2861",
+      "name": "filter",
+      "width": 36,
+      "height": 36,
+      "sha256": "da02b98575b5423a3630432e83795fd67f87b74f27a1eaa97f756d211fd813f7"
+    },
+    "452:2908": {
+      "nodeId": "452:2908",
+      "name": "fire",
+      "width": 36,
+      "height": 36,
+      "sha256": "ba293c3a3187f278b86821bf64631aed8ef030b1920a0ce9a7e08a6ab6bff8d4"
+    },
+    "452:2862": {
+      "nodeId": "452:2862",
+      "name": "flag",
+      "width": 36,
+      "height": 36,
+      "sha256": "553f55caee10b1d417472d19340a406a4e287a81b8dc991f0712c6c3bbb2f796"
+    },
+    "452:2863": {
+      "nodeId": "452:2863",
+      "name": "folder-add",
+      "width": 36,
+      "height": 36,
+      "sha256": "e7156f9aa5f40f7aeae14921833e9194e26e0b76dddfd5d6098a4681efcd248c"
+    },
+    "452:2865": {
+      "nodeId": "452:2865",
+      "name": "folder",
+      "width": 36,
+      "height": 36,
+      "sha256": "73cde13042fd29e9ef2a00a48ce90d1748b16e471f22e28161ad8e13ecbeb4ec"
+    },
+    "452:2864": {
+      "nodeId": "452:2864",
+      "name": "folder-open",
+      "width": 36,
+      "height": 36,
+      "sha256": "8a7f0e6cc846f932e880caa33cecdc713ee0670ce575784c674c0756d9452198"
+    },
+    "452:2909": {
+      "nodeId": "452:2909",
+      "name": "frown",
+      "width": 36,
+      "height": 36,
+      "sha256": "df9b548bb54cca56818f4a2118a2ab3a61e201f66958a4029254efc126561e08"
+    },
+    "452:2867": {
+      "nodeId": "452:2867",
+      "name": "funnel-plot",
+      "width": 36,
+      "height": 36,
+      "sha256": "5b0a84322f2187510ce2add28bb4091c68cbdae1d4187a69c7d576739b1fddda"
+    },
+    "452:2868": {
+      "nodeId": "452:2868",
+      "name": "gift",
+      "width": 36,
+      "height": 36,
+      "sha256": "a4916c35f0f2fba5d6a951316df37274fe511b2ffb6a6c1f7e84a85a34b63016"
+    },
+    "452:2869": {
+      "nodeId": "452:2869",
+      "name": "gold",
+      "width": 36,
+      "height": 36,
+      "sha256": "48ca9664baaff1acfefbefc6dbf7a1476ad46301a5e2d428402eb29c4c1eeb9c"
+    },
+    "452:2870": {
+      "nodeId": "452:2870",
+      "name": "hdd",
+      "width": 36,
+      "height": 36,
+      "sha256": "a7b170800c1c0bc929df07599048b7536e051562e1f89599050e24f56cf0c62f"
+    },
+    "452:2910": {
+      "nodeId": "452:2910",
+      "name": "heart",
+      "width": 36,
+      "height": 36,
+      "sha256": "dcc3a01ec8c99053a9b8b4e2292fbe7572e95b3e835b255af3240f01eadec1ba"
+    },
+    "452:2911": {
+      "nodeId": "452:2911",
+      "name": "home",
+      "width": 36,
+      "height": 36,
+      "sha256": "4a25e929aa115441d274ba0b84a7b970f16926429402207c89853d07a5458e24"
+    }
+  },
+  "unavailable": {}
+}

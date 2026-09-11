@@ -1,0 +1,7 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="8.5" cy="8.5" r="7.75" transform="matrix(1 0 0 -1 1.5 19.5)" stroke="black" stroke-width="1.5"/>
+<path d="M10 7.42871V10.5144L12.0571 12.5715" stroke="black" stroke-width="1.54285" stroke-linecap="round"/>
+<rect x="4.39819" y="0.699951" width="1.5" height="5.24944" rx="0.75" transform="rotate(45 4.39819 0.699951)" fill="black"/>
+<rect width="1.5" height="5.24944" rx="0.75" transform="matrix(-0.707107 0.707107 0.707107 0.707107 15.5942 0.699951)" fill="black"/>
+</svg>
+
